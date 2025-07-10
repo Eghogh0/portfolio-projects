@@ -8,6 +8,8 @@
 ## 🌐 Web Dev Internship
 - [Task Tracker App](https://github.com/Eghogh0/portfolio-projects/tree/295dad1241a3dbf3890c123df4f91fde61d51175/web-dev-internship/Task%20Tracker)
 - [To-do App](https://github.com/Eghogh0/portfolio-projects/tree/295dad1241a3dbf3890c123df4f91fde61d51175/web-dev-internship/To-do%20App)
+- [Chef Maria's App](https://github.com/Eghogh0/portfolio-projects/tree/43b7f9d4a2b284faa3f6f9552e3db2d3e5de43dd/chef-maria-app)
+- [Tasty bites App](https://github.com/Eghogh0/portfolio-projects/tree/43b7f9d4a2b284faa3f6f9552e3db2d3e5de43dd/tastybites-app)
 
 ## 🎨 Design Work
 - Posters, thumbnails, and more in [graphics-design](https://github.com/Eghogh0/portfolio-projects/tree/295dad1241a3dbf3890c123df4f91fde61d51175/graphics-design/thumbnails)
