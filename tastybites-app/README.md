@@ -24,7 +24,7 @@ TastyBites is a lightweight fullstack web application for managing restaurant cu
 - **User Interface**
   - Orange-themed branding
   - Responsive layout
-  - Accessible via `tastybites.com` (custom setup or localhost)
+  - Accessible via [tastybites.com](https://github.com/Eghogh0/portfolio-projects/tree/43b7f9d4a2b284faa3f6f9552e3db2d3e5de43dd/tastybites-app) (localhost)
 
 ## 🛠 Tech Stack
 
