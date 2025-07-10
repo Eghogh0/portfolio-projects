@@ -53,7 +53,7 @@ src/
   ```bash
   npm install -g expo-cli
 
-git clone https://github.com/Eghogh0/chef-maria-app.git
+git clone [https://github.com/Eghogh0/chef-maria-app.git](https://github.com/Eghogh0/portfolio-projects/tree/c2f63049a43eb0952c0bd35d2a727724d1acc7fe/chef-maria-app)
 cd chef-maria-app
 npm install
 npx expo start
